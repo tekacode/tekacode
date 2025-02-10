@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Teka Fisseha
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), this is Teka Fisseha.
 ====================================================================================================================================
 
 Full Stack Developer
 --------------------
 
-I have been learning and coding for a living for more than 5 years. I love coding and teaching coding.
+I have been learning and working with codes for more than 10 years. I love learning and teaching coding.
 
 *   🌍  Based in Alexandria, VA
 
